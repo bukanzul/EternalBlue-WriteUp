@@ -1,3 +1,3 @@
 # EternalBlue-WriteUp
 
-Perform penetration attack using Eternal Blue exploitation on Windows 7 OS
+Writeup for penetration attack using Eternal Blue exploitation on Windows 7 OS
